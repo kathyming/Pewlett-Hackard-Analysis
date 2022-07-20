@@ -15,4 +15,5 @@ In order to better understand the demogrpahic of those near retirement, a query 
 ### Mentorship-Eligible Employees
 To prepare for the wave of upcoming retirements, mangement requested a list of employees who are elibilbe for a mentorship progam to hopefull fill some of the vacancies created by retiring employees.  The mentorship-eligible list consists of 1,549 employees.
 ## Conclusion
-After conducting the analysis on retirement age employoees at Pewlett-Hackard, 
+After conducting the analysis on retirement age employoees at Pewlett-Hackard, it is obvious that management does need to have a game plan in place to fill the open posiitons left vacant by the retiring employees.  Their main focus should be on training and recruiting engineers.  With only 1,549 mentorship-eligible employees, I would suggest mangament look to updated their criteria for the mentorship program to include more employees.
+It is suggested that further analysis be conducted to determine the current job titles of those who are currenlty mentorship-eligible.  It would also be helpful to determine what percentage, by title of the overall staff is nearing retirement. For example, what percentage of overall engineering staff is near retirement?
