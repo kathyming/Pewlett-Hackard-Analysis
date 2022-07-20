@@ -8,5 +8,11 @@ In order to better understand the demogrpahic of those near retirement, a query 
 * Senior Staff and Senior Engineering are the top two positions with the most employees nearing retirement (24,926 and 24,926 respectively)
 * Managment will only be minimally impacted with only 2 Managers near retirement.
 * Technique Leaders will be moderately impacted with 3,603 staff near retirement.
+
+
 ![image](https://user-images.githubusercontent.com/106352711/180065000-6e9ca534-d12e-4332-953e-c5da764dc382.png)
 
+### Mentorship-Eligible Employees
+To prepare for the wave of upcoming retirements, mangement requested a list of employees who are elibilbe for a mentorship progam to hopefull fill some of the vacancies created by retiring employees.  The mentorship-eligible list consists of 1,549 employees.
+## Conclusion
+After conducting the analysis on retirement age employoees at Pewlett-Hackard, 
