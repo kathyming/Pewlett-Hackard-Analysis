@@ -8,4 +8,5 @@ In order to better understand the demogrpahic of those near retirement, a query 
 * Senior Staff and Senior Engineering are the top two positions with the most employees nearing retirement (24,926 and 24,926 respectively)
 * Managment will only be minimally impacted with only 2 Managers near retirement.
 * Technique Leaders will be moderately impacted with 3,603 staff near retirement.
-* 
+![image](https://user-images.githubusercontent.com/106352711/180065000-6e9ca534-d12e-4332-953e-c5da764dc382.png)
+
